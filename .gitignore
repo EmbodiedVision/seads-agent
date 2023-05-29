@@ -1,0 +1,10 @@
+*.pyc
+.idea
+__pycache__
+.vscode/
+*.so
+*.o
+
+.ipynb_checkpoints
+
+/experiments
